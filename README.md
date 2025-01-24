@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=UilliamHyseni&theme=nightowl&border_radius=5" alt="GitHub Streak" height="150" alt="streak graph"  />
-</div>
-
 ###
 ###
 ###
